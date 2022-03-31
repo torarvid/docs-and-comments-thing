@@ -12,3 +12,6 @@ Well, same as above, with a few changes perhaps... History repeats itself.
 (Noticing while I'm writing this, that there are similarities to other aspects
 of developer lyfe, like writing tests, working with observability, monitoring
 etc)
+
+
+README should invite more people to edit it!
