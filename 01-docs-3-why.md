@@ -1,4 +1,4 @@
- documentation
+## Writing documentation
 
 ### Why do we document how our systems work?
 

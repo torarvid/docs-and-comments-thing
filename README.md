@@ -1,4 +1,13 @@
 # Thoughts about documentation and code comments
 
-This repo contains thoughts and comments for a little team workshop at Oda for
-31 March 2022.
+## Agenda
+
+1. Talk a bit about documentation
+2. Talk a bit about code comments
+
+## Format
+
+* Informal chat
+* I have a few notes, but I'm hoping to uncover what thoughts and ideas each of
+  us have, and where we agree and disagree
+* Feel free to interrupt and ask questions at any time
