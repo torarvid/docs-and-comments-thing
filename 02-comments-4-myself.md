@@ -6,3 +6,5 @@
   as it is"?
 * Remember that code is gonna be *read* much more often than it is gonna be
   *written*
+* Try to unify my thinking of "should I refactor this" and "should I add a
+  comment here"

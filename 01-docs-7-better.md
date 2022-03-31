@@ -12,3 +12,5 @@
   to be when it comes to writing/maintaining documentation vs other things. "We
   should use 5% of all of our time at work on documentation" or something like
   that (this would amount to around 2 hours per week)
+* I do feel pretty good after having written a chunk of documentation... Maybe
+  focus on that a bit more often...
